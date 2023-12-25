@@ -1,0 +1,13 @@
+{
+  "name": "bz_extra_crafting_efficiency",
+  "version": "0.0.1",
+  
+  "title": "bz_extra_crafting_efficiency",
+  "description": "Extra crafting efficiency for brevven's mods Carbon and Tin",
+  
+  "author": "nihilistzsche",
+  "license": "GPL3",
+  
+  "dependencies": ["base >= 1.1.6", "crafting-efficiency-2", "? bzcarbon", "? bztin", "? dark-matter-replicators-18" ],
+  "factorio_version": "1.1"
+}
